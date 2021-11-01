@@ -33,7 +33,7 @@ menu:
 
 params:
   description: "A.S.K. Geology"
-  footer: "[Github](https://github.com/askgeo) | [Twitter](https://twitter.com/geoabby) | [LinkedIn](https://www.linkedin.com/in/askgeology/) <br> &copy; Abigail S. Knapp 2021 unless otherwise cited or licensed. <br> Theme &copy; [Yihui Xie](https://yihui.org) 2020."
+  footer: "[Github](https://github.com/askgeo) | [Twitter](https://twitter.com/geoabby) | [LinkedIn](https://www.linkedin.com/in/askgeology/) | [Thingiverse](https://www.thingiverse.com/asknapp/designs)<br> &copy; Abigail S. Knapp 2021 unless otherwise cited or licensed. <br> Theme &copy; [Yihui Xie](https://yihui.org) 2020."
 
 markup:
   goldmark:

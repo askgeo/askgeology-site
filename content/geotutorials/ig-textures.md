@@ -1,5 +1,5 @@
 ---
-title: Mineral Identification
+title: Igneous Textures
 categories:
 - Rocks and Minerals
 date: "2017-01-01"
@@ -7,118 +7,70 @@ tags:
 - Handout
 ---
 
-# Mineral Identification
+Igneous Petrology is the study of rocks and minerals formed through the crystallization of magma. Some of these rocks form from volcanic activity, others form deep within the crust and are later revealed through weathering of the surrounding rock. 
 
-The identification of rocks and minerals allows the geologist to determine the properties of a rock formation, such as physical stability, potential to serve as an aquifer, likelihood of ore deposits, or the order of events in the local natural history.
+Many igneous rocks are composed of a few common minerals, which can be seen in thin section below, and are described as either felsic or mafic depending on their composition and color. Mafic minerals (Magnesium + ferrous iron, relatively dark in color) include olivine, pyroxene, biotite, amphibole, and others. Felsic (feldspar + silica, relatively light in color) minerals include quartz, muscovite mica, orthoclase feldspar, and others. Rarer minerals which often accompany these are known as accessory minerals. 
 
-Rock identification can be accomplished first by identifying the constituent minerals, and then the textures present. The minerals may be large and euhedral (perfectly formed crystals), or small and difficult to see with the naked eye. For this reason, it is easiest to begin with a solid foundation in mineral identification before adding the rocks, fossils, geologic structures, or more complex topics.
+Click the photo strips below to see thin section photographs of many common igneous minerals. All thin section photographs by A. Knapp.
 
-![]()![]()
+![]()
  
-Images from Wikimedia Commons.
+## Mafic Minerals
+**Olivine -**
+The mineral which also makes up the most of ultramafic rocks, such as the deep-mantle peridotites, olivine may be found in many basalts (mafic extrusive igneous rock) and has a characteristic high relief and fractures in thin section.
 
-Vesicular (frothy) silica forms pumice, seen on left; on the right, the mineral chalcanthite forms bladed crystals.
+![]()
+ 
+**Pyroxene -**
+May take the form of either orthopyroxene or clinopyroxene, which are differentiated based on their birefringence and extinction in thin section (clinopyroxene has inclined extinction).
 
-## Minerals
+![]()
+ 
+**Amphibole-**
+Where visible, the strong coloration and 60/120 degree cleavage are characteristic for identifying amphibole in thin section.
 
-![]()![]()
+![]()
+ 
+**Biotite-**
+Look for characteristic low relief, strong coloration (yellowish or reddish brown), pleochroism in plane-polarized light, pebbly "bird's-eye" extinction in cross polarized light, and basal cleavage.
 
-Images from Wikimedia Commons.
+![]()
+ 
+## Felsic Minerals
+**Potassium Feldspar -**
+"K-spar" variety microcline is very easy to identify in cross-polars due to the "tartan" twinning, which looks like woven plaid. Microcline twin faces often appear less sharply edged than plagioclase twin faces.
 
-The mineral dioptase, left; on the right, the internal molecular structure.
+![]()
+ 
+**Muscovite - **
+Muscovite shows low relief, basal cleavage, high birefringence, "bird's-eye" extinction patterns, and may be associated with biotite.
 
-Minerals are inorganic, naturally forming solids with a regular internal structure and a definite chemical formula. Because of these defining characteristics, each mineral has predictable physical properties, such as hardness, smell, or behavior when broken. These are the most important physical properties to know:
+![]()
+ 
+**Quartz - **
+Quartz appears colorless in plane-polarized light and has very low birefringence in cross-polarized light, with low relief. Also often shows undualotry extinction in cross-polars where the grain underwent strain.
 
-## Color
+![]()
+ 
+## Other Minerals
 
-The color of a mineral can be incredibly helpful or completely deceptive. For this reason, I suggest that color never be the only property considered in an ID. For example, the mineral quartz, one of the most common minerals on the Earth's surface, can be purple, yellow, orange, brown, white, and colorless, and sometimes green, blue, or even red. However, do note that minerals can be defined based on whether they are very light or very dark (see Felsic, Mafic).
+**Plagioclase Feldspar -**
+May be mafic or felsic, depending on the variety. Plagioclase feldspar is a very important mineral in felsic, intermediate, and mafic rocks, making up to 70% of some (as in the case of diorites and andesites). In felsic rocks, plagioclase will contain more sodium (NaAlSi3O8 - albite being the purest example), while mafic rocks will show more calcium-rich plagioclase (as in CaAl2Si2O8 - anorthite).
 
-![]()![]()
+![]()
+ 
+**Alteration Minerals -**
+Minerals which result from weathering, metamorphism, or other processes which transform one mineral to another. Very commonly the alteration will be partial, and will be seen as halo/borders surrounding, or patches within, a mineral in thin section.
 
-Images from Wikimedia Commons.
+![]()
+ 
+**Oxides -**
+Minerals which are composed of oxygen and metal alloys may be found in igneous rocks, and may make up important economic deposits, as in the Bushveld Complex in South Africa.
+ 
+![]()
 
-Quartz varieties can be very different in color and even opacity.
+## Igneous Textures
 
-## Hardness
+See below for more igenous textures.
 
-Hardness is the mineral's resistance to being scratched. It is measured from 1-10 on the Moh's Scale which is defined by minerals of given relative hardness. Talc is the definitive mineral for Moh's hardness of 1, and diamond defines a 10. You can easily determine hardness by scratching the mineral (if destructive tests are allowed) with a penny, steel nail, fingernail, or piece of mineral whose hardness you know.
-
-![]()![]()
-
-Images from Wikimedia Commons. See (1) for attribution.
-
-On the left, talc schist with a Mohs scale hardness of 1. On the right, diamond, with a Mohs scale hardness of 10.
-
-## Streak
-
-Streak is the color of the mineral when powdered. You may determine streak color may scraping the mineral firmly across a cermaic plate, but the mineral must be softer than the plate, or it will simply scratch it without streaking. A helpful guideline for streaks: metallic minerals often have telltale streak color, while nonmetallic minerals often simply streak white.
-
-![]()![]()
-
-Images from Wikimedia Commons. See (2) for attribution.
-
-Hematite will show two different streaks depending on the oxidation state.
-
-## Luster
-
-The simplest way to define a mineral's luster is as either metallic or non metallic. If the mineral is opaque and looks like it is made from metal, it is called metallic. Nonmetallic lusters describe all other minerals. More specifically, nonmetallic minerals can be greasy, resinous, adamantine, waxy, pearly, glassy, and so on. 
-
-![]()![]()
-
-Images from Wikimedia Commons. See (2) for attribution.
-
-Hematite will also show different lusters depending on the oxidation state. The hematite on the left is
-
-metallic, while the hematite on the right is nonmetallic and could be described as having an dull luster.
-
-## Cleavage
-
-Cleavage is the mineral's preferential planes of weakness, at which it will cleave or split along when broken. See below for an in depth discussion.
-
-## Fracture
-
-A mineral which does not have cleavage will have a fracture when broken, which will be described as irregular, conchoidal, hackly, earthy, etc. Some common examples are kaolin, which has an earthy fracture, and quartz, which has a conchoidal fracture. Glass, which is not a mineral, also breaks conchoidally, as well as the rocks obsidian and chert. See these examples of conchoidal fracture, which show the classic "seashell" pattern of the broken edge to varying degrees:
-
-![]()![]()
-
-Images from Wikimedia Commons.
-
-The obsidian on the left and the glass on the right both show a conchoidal fracture, as does quartz.
-
-## Others
-
-There are other very useful properties which certain minerals can easily be identified by. For instance, magnetite is magnetic. Calcite will effervesce (fizz or bubble) when acid is applied to its surface. Kaolin has an earthy smell when moistened with breath, and sulfur has a constant, easily recognizable odor. Certain minerals fluoresce when illuminated by blacklight. Halite, the mineral from which table salt is produced, tastes salty. These are additional properties that can help if you are close to narrowing a mineral ID down. 
-
-## Cleavage - How to determine if there is cleavage, how many planes, and at what angles?
-
-As mentioned above, cleavage is the plane or planes of weakness within the structure of a mineral. Let's look at the atomic structure of halite (NaCl), which is table salt, and a common variety of quartz:
-
-![]()![]()
-
-Images from Wikimedia Commons. See (3), (4) for attributions.
-
-From left: Halite (NaCl), alpha-quartz (SiO2)
-
-The mineral on the left has atoms arranged in a 3-D grid, locked together by bonds at right angles. In order to cut through this grid, it would be easiest to find the "grain" of the structure, or the place where it is weakest, just like when cutting a presliced bagel in half.  The mineral on the right has no easy path for a knife to cut straight through-- no real "grain". 
-
-![]()![]()
-
-Images from Wikimedia Commons.
-
-The mineral muscovite (a mica) has cleavage in only one direction. 
-
-Let's look at another example. In the mineral above, the atoms are arranged in a sandwich. Would it be easier to slice or break the mineral between the "bread", or through both "bread slices"? This mineral is a mica, and the easiest way to slice or break this mineral is parallel to the slices. These planes between the slices are all oriented in the same direction, and there is only one direction. We call this direction the cleavage. 
-
-It might help to lay your hand flat in the direction of the cleavage(s) of a mineral to try to visualize it.
-
-### Attributions:
-
-(0) All images without specific attribution are in the public domain or licensed as Creative Commons 1.0.
-
-(1) James St. John, [CC BY 2.0](https://creativecommons.org/licenses/by/2.0), via Wikimedia Commons. [Source.](https://commons.wikimedia.org/wiki/File:Talc_schist_4_(16715578217).jpg)  Retrieved 2021
-
-(2) KarlaPanchuk, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0), via Wikimedia Commons. [Source.](https://upload.wikimedia.org/wikipedia/commons/d/d7/Hematite_streak_plate.jpg)  Retrieved 2021
-
-(3) H. Hoffmeister, [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons. [Source.](https://upload.wikimedia.org/wikipedia/commons/2/2e/NaCl-Ionengitter.png)  Retrieved 2021
-
-(4) PNG after original vector by Andel, CC0, via Wikimedia Commons. [Source.](https://upload.wikimedia.org/wikipedia/commons/8/8f/%CE%91-Quartz.svg) Retrieved 2021
+![]()

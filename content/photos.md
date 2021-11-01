@@ -2,6 +2,6 @@
 title: Photos
 ---
 
-## _Photography_
+## Photography
 
 Content

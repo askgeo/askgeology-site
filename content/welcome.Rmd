@@ -6,7 +6,7 @@ title: Welcome
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## _Abigail S. Knapp' Geology Hub_
+## Abigail S. Knapp' Geology Hub
 
 ![](/img/logo.jpg)
 
