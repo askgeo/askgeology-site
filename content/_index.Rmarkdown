@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: Welcome
 ---
 
 # Blog Posts
