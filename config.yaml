@@ -12,22 +12,25 @@ permalinks:
 
 menu:
   main:
-    - name: Home
-      url: ""
+    - name: Welcome
+      url: "welcome/"
       weight: 1
     - name: About
       url: "about/"
-      weight: 2
+      weight: 4
     - name: Research
       url: "research/"
-      weight: 3
+      weight: 2
     - name: GeoTutor
       url: "geotutor/"
-      weight: 4
+      weight: 3
+    - name: Blog
+      url: ""
+      weight: 5
 
 params:
   description: "A website built through Hugo and blogdown."
-  footer: "All content &copy; Abigail S. Knapp 2021 unless otherwise noted. | [Github](https://github.com/askgeo) | [Twitter](https://twitter.com/geoabby) <br>Theme &copy; [Yihui Xie](https://yihui.org)."
+  footer: "[Github](https://github.com/askgeo) | [Twitter](https://twitter.com/geoabby) | [LinkedIn](https://www.linkedin.com/in/askgeology/) <br> &copy; Abigail S. Knapp 2021 unless otherwise cited or licensed. <br> Theme &copy; [Yihui Xie](https://yihui.org)."
 
 markup:
   goldmark:
