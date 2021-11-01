@@ -2,15 +2,12 @@
 title: GeoTutor
 ---
 
-## Handouts for Undergraduate-Level Geology
+## Handouts
 
-### Rocks and Minerals
+### Geology - Undergrad Level
 
 - [Mineral Identification](/geotutorials/mineral-id)<br>
 - [Igneous Petrography](/geotutorials/ig-textures)<br>
-
-### Maps and Fieldwork
-
 - [Maps and Compasses](/geotutorials/maps)<br>
 
-## More Coming Soon!
+_More Coming Soon!_

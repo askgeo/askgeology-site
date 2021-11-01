@@ -2,7 +2,7 @@
 title: Research
 ---
 
-## Graduate
+## Graduate Research
 
 During my M.S., I investigated the effects of hydrology (precipitation, drought, flow dynamics) on harmful algae in reservoirs under the supervision of Dr. Adam M. Milewski. My thesis research took place in Lakes Sidney Lanier and Allatoona, two Georgia, U.S.A. reservoirs in the Southeastern Piedmont.
 
@@ -20,7 +20,7 @@ Knapp, A.S., Milewski, A.M., and Rotz, R.R., 2017. Temporal Relationship between
 
 Moorman, M., Hutcheson, H., Knapp, A.S., Creviston, M., Rasmussen, T., and Milewski, A.M., 2019. A Status Assessment of Water Quality on US Fish and Wildlife Refuges in the Southeastern US. 11th National Monitoring Conference, Abstracts with Program. [Link.](https://acwi.gov/monitoring/conference/2019/presentations/Moorman_G7_Secure.pdf)
 
-## Undergraduate Research
+## _Undergraduate Research_
 
 During my undergraduate work, I worked under Dr. Sam Swanson to investigate primary phosphate mineralogy in a lithium pegmatite, and under Dr. Mike Roden to investigate the petrogenesis of the Banco Bonito rhyolites from the Valles Caldera, NM.
 

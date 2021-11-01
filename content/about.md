@@ -2,6 +2,8 @@
 title: About
 ---
 
+## About Abigail S. Knapp
+
 **Hydrogeology + Decision Tools + Earth Science Outreach**
 
 I am a geologist interested in ecohydrogeology, or the hydrologic and landscape drivers of ecological change under the pressures of a warming climate and changing land use.
