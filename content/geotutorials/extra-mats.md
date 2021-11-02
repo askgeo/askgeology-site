@@ -2,7 +2,7 @@
 title: 3D Models for Teaching
 categories:
 - 3D Models
-date: "2017-01-01"
+date: "2019-01-01"
 tags:
 - 3Dmodels
 ---
