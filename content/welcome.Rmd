@@ -6,25 +6,24 @@ title: Welcome
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Abigail S. Knapp' Geology Hub
+<img src="/img/logo.jpg" alt="drawing" width="15%" align = "right"/>
 
-![](/img/logo.jpg)
+## Abigail S. Knapp' Geology Hub
 
 Welcome! I am a hydrogeologist and an active educator in geoscience through outreach and teaching.
 
 See [Research](/research/) for my past projects and [Geotutor](/geotutor/) for teaching resources.
 
-## About Abigail
+## Hydrogeology + Decision Tools + Earth Science Outreach
 
-**Hydrogeology + Decision Tools + Earth Science Outreach**
+Please see my [CV](doc/AbigailKnapp_CVFull_2021.pdf) and [Teaching Philosophy](/doc/ASKnapp_TeachingPhilosophyStatement.pdf/).
 
-I am a geologist interested in ecohydrogeology, or the hydrologic and landscape drivers of ecological change under the pressures of a warming climate and changing land use.
+I am interested in ecohydrogeology, or the hydrologic and landscape drivers of ecological change under the pressures of a warming climate and changing land use.
 
-I am pursuing research in changing soil carbon cycles, as increased drought, precipitation, and thaw are changing the rates of carbon retention or release into streams and lakes.
+So far, I have completed a B.S. in Geology and an M.S. in Geology with a focus on hydrology. I have also worked in the public sector in wastewater permitting and Underground Injection Control at the State level.
 
-- [CV](documents/AbigailKnapp_CVFull_2021.pdf)
-- [Teaching Philosophy](documents/ASKnapp_TeachingPhilosophyStatement.pdf)
+Currently, I am pursuing research in changing soil carbon cycles, as increased drought, precipitation, and thaw are changing the rates of carbon retention or release into streams and lakes.
 
-Please reach out via abigail.s.knapp@gmail.com if you have any questions.
+Please reach out via [email](abigail.s.knapp@gmail.com) if you have any questions.
 
 >Long live the weeds and the wilderness yet. -Gerard Manley Hopkins
