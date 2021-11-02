@@ -18,14 +18,14 @@ menu:
     - name: Research
       url: "research/"
       weight: 2
+    - name: CV
+      url: "cv/"
+      weight: 3
     - name: GeoTutor
       url: "geotutor/"
-      weight: 3
+      weight: 4
     - name: Photos
       url: "photos/"
-      weight: 4
-    - name: Posts
-      url: ""
       weight: 5
 
 params:
