@@ -10,11 +10,13 @@ title: CV
 
 ### EDUCATION
 
-M.S. in Geology, 2018, University of Georgia, Athens, GA	
-Thesis: Effects of Precipitation and Drought Dynamics on Harmful Algal Blooms in Two Piedmont Reservoirs, supervised by Dr. Adam M. Milewski
+**M.S. in Geology**, 2018, University of Georgia, Athens, GA	
 
-B.S. in Geology, 2013, University of Georgia, Athens, GA
-Undergraduate Thesis: Melt Inclusion Study of the East Fork Rhyolite Member of
+_Thesis:_ Effects of Precipitation and Drought Dynamics on Harmful Algal Blooms in Two Piedmont Reservoirs, supervised by Dr. Adam M. Milewski
+
+**B.S. in Geology**, 2013, University of Georgia, Athens, GA
+
+_Undergraduate Thesis:_ Melt Inclusion Study of the East Fork Rhyolite Member of
 the Valles Caldera, New Mexico, supervised by Dr. Mike Roden
 
 ### RESEARCH INTERESTS
@@ -24,30 +26,26 @@ Nutrient flux at land-freshwater interfaces, plant mediation of hydrologic conne
 ### RESEARCH EXPERIENCE
 
 Water Resources and Remote Sensing Laboratory, Athens, GA
-Department of Geology, University of Georgia, 2016 – 2018
-Research Assistant										        
-Obtained funding, planned & conducted fieldwork, analyzed data for M.S. thesis
-Collaborated on other lab and university research projects, grant applications, and field trips
-Coded prototype R Shiny application of water quality data for U.S. Fish & Wildlife
-Co-hosted Fulbright scholars and visiting speakers
-Mentored undergraduate lab members
+ <br> Department of Geology, University of Georgia <br> **Research Assistant**, 2016 – 2018										        
+* Obtained funding, planned & conducted fieldwork, analyzed data for M.S. thesis
+* Collaborated on other lab and university research projects, grant applications, and field trips
+* Coded prototype R Shiny application of water quality data for U.S. Fish & Wildlife
+* Co-hosted Fulbright scholars and visiting speakers
+* Mentored undergraduate lab members
 
-Department of Geology, University of Georgia, Athens, GA
-Undergraduate Researcher (Senior Thesis), 2012 – 2013 
-Collected rock samples and prepared thin-section blanks for mounting and polishing
-Investigated geochemistry using electron microprobe, polarized light microscopy, and SEM
-Presented research at UGA Center for Undergraduate Research Symposium
+Department of Geology, University of Georgia, Athens, GA <br> **Undergraduate Researcher** (Senior Thesis), 2012 – 2013 
+* Collected rock samples and prepared thin-section blanks for mounting and polishing
+* Investigated geochemistry using electron microprobe, polarized light microscopy, and SEM
+* Presented research at UGA Center for Undergraduate Research Symposium
 
 Southeastern Suture of the Appalachian Margin Experiment (SESAME), Athens, GA
-Department of Geology, University of Georgia, 2011, 2013
-Undergraduate Researcher, NSF funded project						          
-Assisted with installation and calibration of Flexible Array broadband stations
-In 2013, assisted with checking the sensor network for maintenance and data collection
+ <br> Department of Geology, University of Georgia, 2011, 2013 <br> **Undergraduate Researcher**, NSF funded project						          
+* Assisted with installation and calibration of Flexible Array broadband stations
+* In 2013, assisted with checking the sensor network for maintenance and data collection
 
-Department of Geology, University of Georgia, Athens, GA
-Undergraduate Researcher, 2011
-Investigated mineralogy using electron microprobe and polarized light microscopy
-Presented research at regional conference (Southeastern GSA) with a first-authored poster
+Department of Geology, University of Georgia, Athens, GA <br> **Undergraduate Researcher**, 2011
+* Investigated mineralogy using electron microprobe and polarized light microscopy
+* Presented research at regional conference (Southeastern GSA) with a first-authored poster
 
 ### GRANTS (funding M.S. thesis work)
 
@@ -89,35 +87,35 @@ Gore, Pamela J. W., Pollack, G.D., and Saenger, A.L., 2009, Two-Year College Col
 
 Georgia Environmental Protection Division, Watershed Protection Branch, Atlanta, GA
 Geologist I – III, Underground Injection Control Coordinator, 2018-2021
-Wrote no-discharge state wastewater treatment permits
-Reviewed hydrogeologic models, wastewater treatment designs, and geologic reports 
-Completed annual UIC program grant application, budget, EPA reporting, and work plans
-Curated the state’s UIC well inventory, permitting and compliance files
-Communicated and presented to regulators, stakeholders, and the regulated community
+* Wrote no-discharge state wastewater treatment permits
+* Reviewed hydrogeologic models, wastewater treatment designs, and geologic reports 
+* Completed annual UIC program grant application, budget, EPA reporting, and work plans
+* Curated the state’s UIC well inventory, permitting and compliance files
+* Communicated and presented to regulators, stakeholders, and the regulated community
 
 Athens-Clarke County Water Conservation Office, Athens, GA
 Water Education Intern ( Georgia DNR Project WET Certification), 2017
-Taught educational modules on water conservation to 300 children and adults
-Gave tours of the J.G. Beacham Drinking Water Treatment Plant to K-12 children
+* Taught educational modules on water conservation to 300 children and adults
+* Gave tours of the J.G. Beacham Drinking Water Treatment Plant to K-12 children
 
 University of Georgia, Department of Geology, Athens, GA
 Laboratory Coordinator, 2017
 (Physical Geology)
-Designed and updated teaching materials, managed lab samples and displays 
-Gave laboratory lectures; proctored and graded quizzes, exams, and assignments 
-Managed grading and attendance information
+* Designed and updated teaching materials, managed lab samples and displays 
+* Gave laboratory lectures; proctored and graded quizzes, exams, and assignments 
+* Managed grading and attendance information
 
 University of Georgia, Department of Geology, Athens, GA
 Teaching/Laboratory Assistant, 2016-2018
 (Physical Geology, Mineralogy, Igneous Petrology)
-Designed and updated teaching materials
-Gave laboratory lectures; proctored and graded quizzes, exams, and assignments 
-Managed grading and attendance using online coursework platform (D2L)
+* Designed and updated teaching materials
+* Gave laboratory lectures; proctored and graded quizzes, exams, and assignments 
+* Managed grading and attendance using online coursework platform (D2L)
 
 Southeastern Suture of the Appalachian Margin Experiment (SESAME), Blairsville, GA
 Department of Geology, University of Georgia, 2013
 Undergraduate Employee
-Taught Rocks and Minerals module to K-12 students at the Georgia Mountain Research and Education Center 
+* Taught Rocks and Minerals module to K-12 students at the Georgia Mountain Research and Education Center 
 
 ### RELEVANT COURSEWORK
 Geology Field School 	   
