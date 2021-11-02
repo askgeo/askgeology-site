@@ -2,6 +2,14 @@
 title: GeoTutor
 ---
 
+## Teaching Philosophy
+
+### Geology - Undergrad Level
+
+- [Mineral Identification](/geotutorials/mineral-id)<br>
+- [Igneous Petrography](/geotutorials/ig-textures)<br>
+- [Maps and Compasses](/geotutorials/maps)<br>
+
 ## Handouts
 
 ### Geology - Undergrad Level
