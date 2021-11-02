@@ -27,7 +27,7 @@ menu:
     - name: Photos
       url: "photos/"
       weight: 5
-    - name: Blog
+    - name: Posts
       url: ""
       weight: 6
 
