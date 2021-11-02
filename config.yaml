@@ -15,9 +15,6 @@ menu:
     - name: Welcome
       url: "welcome/"
       weight: 1
-    - name: About
-      url: "about/"
-      weight: 4
     - name: Research
       url: "research/"
       weight: 2
@@ -26,10 +23,10 @@ menu:
       weight: 3
     - name: Photos
       url: "photos/"
-      weight: 5
+      weight: 4
     - name: Posts
       url: ""
-      weight: 6
+      weight: 5
 
 params:
   description: "A.S.K. Geology"
