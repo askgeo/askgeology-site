@@ -12,7 +12,7 @@ title: GeoTutor
 
 ## Games and Materials
 
-- [PetroQuiz: Digital Petrography Flashcards](askgeology.wixsite.com/petroquiz)<br>
+- [PetroQuiz: Digital Petrography Flashcards](https://askgeology.wixsite.com/petroquiz)<br>
 - [3D Mineral Models](/doc/extra-mats/)<br><br>
 
 ## Teaching Philosophy
