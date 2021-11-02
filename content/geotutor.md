@@ -4,20 +4,18 @@ title: GeoTutor
 
 ## Handouts
 
-### Geology - Undergrad Level
+### Undergrad Geology
 
 - [Mineral Identification](/geotutorials/mineral-id)<br>
 - [Igneous Petrography](/geotutorials/ig-textures)<br>
-- [Maps and Compasses](/geotutorials/maps)<br>
+- [Maps and Compasses](/geotutorials/maps)<br><br>
 
 ## Teaching Philosophy
 
 ### My pedagogical values include...
 
-- [Science for All]()<br>
-- [Universal Design for Learning](/teaching/teachingphil)<br>
-- [Getting Your Hands Dirty]()<br>
+- Science is for everybody<br>
+- Universal Design for Learning is great<br>
+- School should let you get your hands dirty<br>
 
-[Teaching Philosophy Statement](/teaching/teachingphil)
-
-_More Coming Soon!_
+[Teaching Philosophy Statement](/doc/teachingphil)

@@ -18,7 +18,7 @@ During my M.S., I investigated the effects of hydrology (precipitation, drought,
 
 ### Other Publications and Abstracts:
 
-Moorman, M., Hutcheson, H., **Knapp, A.S.**, Creviston, M., Rasmussen, T., and Milewski, A.M., 2019. A Status Assessment of Water Quality on US Fish and Wildlife Refuges in the Southeastern US. 11th National Monitoring Conference, Abstracts with Program. [Link.](https://acwi.gov/monitoring/conference/2019/presentations/Moorman_G7_Secure.pdf)
+Moorman, M., Hutcheson, H., **Knapp, A.S.**, Creviston, M., Rasmussen, T., and Milewski, A.M., 2019. A Status Assessment of Water Quality on US Fish and Wildlife Refuges in the Southeastern US. 11th National Monitoring Conference, Abstracts with Program. [Link.](https://acwi.gov/monitoring/conference/2019/presentations/Moorman_G7_Secure.pdf)<br><br>
 
 ## _Undergraduate Research_
 
