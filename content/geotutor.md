@@ -10,6 +10,11 @@ title: GeoTutor
 - [Igneous Petrography](/geotutorials/ig-textures)<br>
 - [Maps and Compasses](/geotutorials/maps)<br><br>
 
+## Games and Materials
+
+- [PetroQuiz: Digital Petrography Flashcards](askgeology.wixsite.com/petroquiz)<br>
+- [3D Mineral Models](/doc/extra-mats/)<br><br>
+
 ## Teaching Philosophy
 
 ### My pedagogical values include...
